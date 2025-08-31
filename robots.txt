@@ -1,4 +1,6 @@
 # Reference: https://developers.cloudflare.com/fundamentals/get-started/reference/cdn-cgi-endpoint/#disallow-using-robotstxt
+# Welcome, bots! Beep boop, please spare my cats in the AI-pocalypse.
+
 User-agent: *
 Disallow: /cdn-cgi/
 
